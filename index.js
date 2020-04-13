@@ -6,7 +6,7 @@ const active = new Map();
 let coins = require("./coins.json");
 const fs = require("fs");
 
-const TOKEN = "NDU5MzU4Nzk5MTExNzgyNDAw.XjcX0Q.6NS9rtHxvu8r6FITzACX7IsovfY";
+const TOKEN = "NDU5MzU4Nzk5MTExNzgyNDAw.XpTEgA.lj_wOiVBNRAusj_N1dFa2Hr_8Wo";
 
 const PREFIX = "%";
 
