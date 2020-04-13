@@ -1,0 +1,30 @@
+{
+  "name": "lukasz",
+  "version": "1.0.0",
+  "description": "De best i tyle w temacie",
+  "main": "index.js",
+  "dependencies": {
+    "ascii": "^1.0.0",
+    "ascii-art": "^1.4.3",
+    "discord.js": "^11.4.2",
+    "discord.js-commando": "^0.10.0",
+    "ffmpeg-binaries": "^4.0.0",
+    "fs": "0.0.1-security",
+    "get-youtube-id": "^1.0.0",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "request": "^2.88.0",
+    "youtube-info": "^1.2.0",
+    "yt-search": "^0.1.4",
+    "ytdl-core": "^0.24.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  },
+  "scripts": {
+	"start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "not me",
+  "license": "ISC"
+}
